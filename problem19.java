@@ -1,6 +1,6 @@
 abstract class A{
 
-    abstract void display();
+    abstract void display();    //abstract method doesn't have body.
 
     void show(){
         System.out.println("This is not abstract method.");

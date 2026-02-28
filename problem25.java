@@ -1,6 +1,7 @@
 // Interface.
 // Interface cannot be instantiated. i.e can't make object of it.
 // Interface variables are always constant. everyvaraible is public static final int x = 10;
+// interface cannot have constructor.
 
 interface Shape{
     abstract void display();

@@ -56,6 +56,7 @@ public class problem48
         try
         {
         Student s1 = new Student("Rakesh", 21, 15, 567);
+        System.out.println(s1);
         }
         catch(Exception e)
         {
